@@ -1,7 +1,7 @@
 # Color sense game
 I got an idea to make a game to select the correct colours based on the given RGB values.
 
-The game can be accessed here:
+The game can be accessed here: https://enyacat.github.io/colours/
 
 
 The original part was I made only one question that generates the random choices and correct answer at a random spot instead of a series of hard coded questions and answers.
